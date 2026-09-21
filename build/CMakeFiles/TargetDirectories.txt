@@ -1,0 +1,3 @@
+/Users/mateuszlybackimatilybacki/Desktop/Cpp_learn_projects/Adventure_Sim_Game/build/CMakeFiles/Adventure_Sim_Game.dir
+/Users/mateuszlybackimatilybacki/Desktop/Cpp_learn_projects/Adventure_Sim_Game/build/CMakeFiles/edit_cache.dir
+/Users/mateuszlybackimatilybacki/Desktop/Cpp_learn_projects/Adventure_Sim_Game/build/CMakeFiles/rebuild_cache.dir
